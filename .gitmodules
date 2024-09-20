@@ -1,0 +1,6 @@
+[submodule "grafana-silence-creator"]
+	path = grafana-silence-creator
+	url = https://github.com/danielkim4565/grafana-silence-creator.git
+[submodule "grafana-alert-copier"]
+	path = grafana-alert-copier
+	url = https://github.com/danielkim4565/grafana-alert-copier.git
